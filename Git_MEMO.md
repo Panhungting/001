@@ -3,3 +3,4 @@
 ### 満たす
 ローカルリポジトリを作る
 $ git add
+$ git commit
